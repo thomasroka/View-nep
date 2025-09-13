@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SpaceText-Bold, 'Space Text';
+        font-size: 116.74px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #154b9a;
+      }
+
+      .cls-3 {
+        fill: #139ad7;
+        font-family: Poppins-Light, Poppins;
+        font-size: 58.37px;
+        font-weight: 300;
+        letter-spacing: .07em;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        letter-spacing: .04em;
+      }
+
+      .cls-5 {
+        letter-spacing: .03em;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-2" points="906.15 1024.14 1001.12 1024.14 1001.12 851.54 906.37 851.54 906.15 1024.14"/>
+    <polygon class="cls-2" points="1096.62 695.67 811.27 695.67 716.31 860.14 621.38 695.69 478.67 695.81 478.67 1024.59 573.62 1024.59 573.62 777.41 716.63 1024.91 858.75 777.91 1096.62 777.91 1096.62 695.67"/>
+    <polygon class="cls-2" points="1212.87 1022.89 1521.33 1022.89 1426.41 858.44 1426.36 858.55 1426.36 858.35 1331.48 693.99 1331.46 693.97 1236.53 693.97 1236.42 694.15 1141.47 858.62 1046.62 1022.89 1141.58 1022.89 1283.99 776.2 1378.95 940.65 1260.33 940.65 1212.87 1022.89"/>
+  </g>
+  <text class="cls-1" transform="translate(442.15 1190.37)"><tspan class="cls-6" x="0" y="0">MAP TECH </tspan><tspan class="cls-4" x="647.8" y="0">A</tspan><tspan class="cls-6" x="723.45" y="0">GEN</tspan><tspan class="cls-5" x="959.62" y="0">C</tspan><tspan class="cls-6" x="1036.91" y="0">Y</tspan></text>
+  <text class="cls-3" transform="translate(462 1273.11)"><tspan x="0" y="0">BRIDGING IDEAS, BUILDING FUTURES</tspan></text>
+</svg>
